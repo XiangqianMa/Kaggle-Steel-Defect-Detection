@@ -1,0 +1,10 @@
+.vscode
+.idea
+__pycache__
+datasets/Steel_data/
+checkpoints/
+*.pkl
+submission.csv
+*.json
+kaggle/
+.fuse_hidde*
