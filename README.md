@@ -268,3 +268,6 @@ When run `SUBMISSION=/path/to/csv/file.csv make release-csv`, If you encounter t
 - [x] choose fold
 - [x] TTA
 - [x] ensemble
+## Contributer
+* [XiangqianMa](https://github.com/XiangqianMa)
+* [Zdaiot](https://github.com/zdaiot)
