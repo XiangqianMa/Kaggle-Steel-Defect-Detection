@@ -2,7 +2,7 @@
 
 ![header](README/header.jpg)
 
-Code for Kaggle [Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection), 96th place solution (Top4%).
+Code for Kaggle [Steel Defect Detection](https://www.kaggle.com/c/severstal-steel-defect-detection)(Top4%).
 
 ## Requirements
 * Pytorch 1.1.0
